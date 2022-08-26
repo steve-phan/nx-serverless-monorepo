@@ -1,5 +1,9 @@
 {
   "$schema": "./node_modules/nx/schemas/workspace-schema.json",
   "version": 2,
-  "projects": {}
+  "projects": {
+    "baby-shop-webapp": "apps/baby-shop-webapp",
+    "baby-shop-webapp-e2e": "apps/baby-shop-webapp-e2e",
+    "header": "libs/header"
+  }
 }

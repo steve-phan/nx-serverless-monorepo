@@ -2,3 +2,7 @@
 
 /dist
 /coverage
+
+/apps/baby-shop-webapp/node_modules
+/apps/baby-shop-webapp/public
+/apps/baby-shop-webapp/.cache
