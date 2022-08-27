@@ -4,6 +4,8 @@
   "projects": {
     "baby-shop-webapp": "apps/baby-shop-webapp",
     "baby-shop-webapp-e2e": "apps/baby-shop-webapp-e2e",
-    "header": "libs/header"
+    "header": "libs/header",
+    "paypal-demo": "apps/paypal-demo",
+    "paypal-demo-e2e": "apps/paypal-demo-e2e"
   }
 }
